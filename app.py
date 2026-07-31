@@ -296,7 +296,7 @@ def chart_card(fig: go.Figure):
 # ==============================================================================
 # 3. DATA LOADING
 # ==============================================================================
-DEFAULT_PATH = "data/netflix_titles_cleaned.csv"
+DEFAULT_PATH = "netflix_titles_cleaned.csv"
 
 
 @st.cache_data
